@@ -21,3 +21,7 @@ module = "org.jetbrains.kotlinx:kotlinx-coroutines-test"
 [libraries.kotlinx-binary-compatibility]
 version = "0.13.2"
 module = "org.jetbrains.kotlinx:binary-compatibility-validator"
+
+[libraries.kotlinx-datetime]
+version = "0.5.0"
+module = "org.jetbrains.kotlinx:kotlinx-datetime"
